@@ -16,4 +16,4 @@ Website is made with just HTML, CSS and JavaScript wthout any heavy libraries or
 <img src="Sorting Simulator (Screenshot).png">
 
 ## Try it out!
-[<href=https://sorting-simulation.netlify.app/>](https://sorting-simulation.netlify.app/)
+[Sorting Simulator](https://sorting-simulation.netlify.app/)
