@@ -17,3 +17,5 @@ Initial mode to visualize any available algorithms.
 
 Website is made with just HTML, CSS and JavaScript wthout any heavy libraries or frameworks.
 
+### Screenshot
+<img src="Sorting Simulator (Screenshot).png">
