@@ -1,6 +1,6 @@
 
 # Sorting Simulator
-Visual Algo is a web application that visualizes popular algorithms step by step.
+Sorting Simulator is a web application that visualizes 3 popular sorting algorithms step by step.
 This application has two different modes available:
 
 
